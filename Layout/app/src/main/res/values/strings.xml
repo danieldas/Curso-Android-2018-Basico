@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Layout</string>
+    <string name="azul">Azul</string>
+    <string name="rojo">Rojo</string>
+    <string name="amarillo">Amarillo</string>
+    <string name="verde">Verde</string>
+</resources>
